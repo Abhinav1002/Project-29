@@ -31,9 +31,7 @@ class Chain{
         }
     }
 
-     attach(body){
-    this.sling.bodyA = body;
-    }
+     
     
 }
 
